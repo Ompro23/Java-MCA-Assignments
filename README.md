@@ -40,6 +40,3 @@ Each folder contains the Java source code and related files for that assignment.
 - These programs are written for learning/academic purposes.
 - Folder and file names are kept close to the assignment naming.
 
-## License
-
-If you want, add a license (MIT/Apache-2.0) in this repository. For now, the code is provided for educational use.
